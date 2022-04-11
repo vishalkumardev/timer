@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.container {
+    background-color: #5372F0;
+    min-height: 100vh;
+}
+
+
+.outbox {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        padding: 10px;
+}
+
+
+.container  h1 {
+        color: rgb(22, 20, 20) ;
+        font-size: 35px;
+        text-align: center;
+        background-color: rgb(255, 255, 255);
+        display: inline-block;
+        padding: 20px;
+        border-radius: 15px;
+       
+}
+
+
+
+
+
+ 
+  
